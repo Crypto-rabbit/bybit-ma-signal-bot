@@ -1,13 +1,19 @@
-# Виртуальное окружение
-.venv/
+# временные и сгенерированные файлы
+*.log
+*.spec
+*.pkg
+*.toc
+*.pyz
+*.zip
+*.html
 
-# Байткод Python
+# pyinstaller, сборки
+build/
+dist/
 __pycache__/
-*.py[cod]
+*.exe
 
-# Файл с секретами
-.env
-
-# IDE и редакторы
+# IDE и окружение
 .vscode/
 .idea/
+.env
