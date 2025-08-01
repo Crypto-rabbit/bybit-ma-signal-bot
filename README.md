@@ -16,3 +16,5 @@ git clone https://github.com/Крипто-кролик/bybit-ma-signal-bot.git
 cd bybit-ma-signal-bot
 pip install -r requirements.txt
 python main.py
+
+tg   @cryptorabbitss
