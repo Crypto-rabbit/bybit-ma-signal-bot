@@ -1,0 +1,4 @@
+  File "c:\Users\user\Desktop\тест\dashboard.py", line 12
+    padding: 20px;
+              ^
+SyntaxError: invalid decimal literal
